@@ -191,25 +191,12 @@ while (scanf("%d", &opcao) != 1) {
 }
 ```
 
-## 💡 Melhorias Futuras
-
-### Features Planejadas
-- [ ] **Persistência de Dados**: Salvar carrinho e estoque em arquivo
-- [ ] **Catálogo Dinâmico**: Adicionar/remover produtos dinamicamente
-- [ ] **Histórico de Vendas**: Relatórios de vendas e estatísticas
-- [ ] **Sistema de Usuários**: Login e perfis de usuário
-- [ ] **Interface Gráfica**: Migração para GUI
-- [ ] **Banco de Dados**: Integração com SQLite
-- [ ] **Múltiplas Moedas**: Suporte a diferentes moedas
-- [ ] **Sistema de Cupons**: Códigos promocionais
-
 ## 📁 Estrutura do Projeto
 
 ```
-Trabalho do Valval/
+root/
 ├── main.c                          # Código-fonte principal
-├── README.md                       # Esta documentação
-└── relatorio_sistema_vendas.md     # Relatório técnico detalhado
+└── README.md                       # Esta documentação
 ```
 
 ## 🛠️ Tecnologias Utilizadas
@@ -226,10 +213,6 @@ Trabalho do Valval/
 - **Estruturas**: 2 structs
 - **Constantes**: 4 defines
 - **Complexidade**: Baixa-Média
-- **Manutenibilidade**: Alta
-
-## 🤝 Contribuições
-
 Este é um projeto educacional. Sugestões de melhorias são bem-vindas:
 
 1. Fork o projeto
@@ -244,10 +227,6 @@ Este projeto é desenvolvido para fins educacionais e está disponível sob lice
 
 ## 📞 Contato
 
-**Autor**: Estudante de Programação  
-**Disciplina**: Programação em C  
+**Autores**: Pedro Henrique Carvalho, Clarissa Pinheiro do Nascimento, Israel Ferreira Dias, Gabriel Gama Baroni, lelê*
+**Disciplina**: Estruturas de Dados em C  
 **Data**: Outubro de 2025
-
----
-
-*Desenvolvido com ❤️ para aprendizado de programação em C*
