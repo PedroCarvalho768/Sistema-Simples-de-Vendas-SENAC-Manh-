@@ -227,6 +227,6 @@ Este projeto é desenvolvido para fins educacionais e está disponível sob lice
 
 ## 📞 Contato
 
-**Autores**: Pedro Henrique Carvalho, Clarissa Pinheiro do Nascimento, Israel Ferreira Dias, Gabriel Gama Baroni, lelê*
+**Autores**: Pedro Henrique Carvalho, Clarissa Pinheiro do Nascimento, Israel Ferreira Dias, Gabriel Gama Baroni, Alexandra de Lima Fernandes
 **Disciplina**: Estruturas de Dados em C  
 **Data**: Outubro de 2025
