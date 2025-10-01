@@ -1,5 +1,5 @@
 /*
-SISTEMA DE VENDAS SIMPLIFICADO - PROJETO ESTUDANTIL
+SISTEMA DE VENDAS SIMPLIFICADO
 Sistema de ponto de venda com carrinho, estoque e validação
 */
 
